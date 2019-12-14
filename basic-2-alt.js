@@ -1,5 +1,7 @@
+'use strict'
+
 function chocholateBars() {
-    var array = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
+    const array = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
     console.log(array); // [ 'snickers', 'hundred grand', 'kitkat', 'skittles' ]
 }
 
